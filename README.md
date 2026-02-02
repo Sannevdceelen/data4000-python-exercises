@@ -67,3 +67,13 @@ statements. Outputs the product name and its margin category.
 Assumptions:
 - Product names are normalized to lowercase and cleaned of extra spaces.
 - Products not listed in predefined categories are marked for review.
+
+---
+
+## Bonus Challenge: Integrated Decision Tool
+
+An optional bonus exercise was completed on a separate branch named
+`bonus-decision-tool`, as instructed. The program combines functions,
+conditionals, and match-case statements to evaluate profitability and
+suggest investment decisions.
+
